@@ -1,1 +1,1 @@
-![Dashboard](Budget_Dashbard.png)
+![Dashboard](Budget_Dashboard.png)
